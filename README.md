@@ -12,3 +12,5 @@ Solution:
 ```
 find.foo/2023GoogleCerts
 ```
+
+Refer a friend: "https://foobar.withgoogle.com/?eid=ax9w4" (Unused)
